@@ -1,1 +1,1 @@
-This repositoriy contains my solution to the Data Incubator April 29, 2017
+This repository contains my solutions to the Data Incubator callange April 29, 2017
