@@ -2,4 +2,5 @@ Zillow’s Zestimate is a well-known framework for home value prediction using m
 
 https://www.kaggle.com/c/zillow-prize-1
 
+https://www.zillow.com/data-science/zillow-prize-big-reveal/
 
