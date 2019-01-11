@@ -4,3 +4,5 @@ https://www.kaggle.com/c/zillow-prize-1
 
 https://www.zillow.com/data-science/zillow-prize-big-reveal/
 
+https://www.youtube.com/watch?v=tsT9CJVIm30&feature=youtu.be
+
